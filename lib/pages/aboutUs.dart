@@ -49,7 +49,7 @@ class AboutUsPage extends StatelessWidget {
               email: 'aditya21csu357@ncuindia.edu',
               photoUrl: 'images/aditya.jpg', // Asset image path
               roleDescription:
-                  'Aditya is responsible for the making the Login/SignUp page, adding Google SignIn functionality in the page, adding authentication using Firebase and connecting Firebase to the code, intrgrating his code with the final code given by Sahil, Krati, Arushi and Bhavay, futher added functionaltiy like About Us in the drawer function, fetching user data from firebase and showing it on profile and finally adding the logout functionality and summing up the code.  .',
+                  'Aditya is responsible for the making the Login/SignUp page, adding Google SignIn functionality in the page, adding the forgot password functionality, adding authentication using Firebase and connecting Firebase to the code, intrgrating his code with the final code given by Sahil, Krati, Arushi and Bhavay, futher added functionaltiy like About Us in the drawer function, fetching user data from firebase and showing it on profile and finally adding the logout functionality and summing up the code.  .',
             ),
             const SizedBox(height: 10),
             DeveloperContainer(
